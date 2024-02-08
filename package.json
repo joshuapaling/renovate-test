@@ -1,0 +1,11 @@
+{
+  "name": "renovate-test",
+  "version": "1.0.0",
+  "description": "Reproduce bug where renovate does not respect auto-merge schedule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Paling <joshua.paling@gmail.com> (http://joshuapaling.com/)",
+  "license": "MIT"
+}
