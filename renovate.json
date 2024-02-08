@@ -1,0 +1,13 @@
+{
+  "timezone": "Australia/Sydney",
+  "schedule": [
+    "after 9am every weekday",
+    "before 1pm every weekday"
+  ],
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch", "digest"],
+      "automerge": true
+    }
+  ]
+}
